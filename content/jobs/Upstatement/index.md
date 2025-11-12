@@ -1,7 +1,7 @@
 ---
 date: '2025-06-16'
 title: 'Project Management Intern'
-company: 'Ansell Global Trading Centre'
+company: 'Ansell GTC'
 location: 'Cyberjaya, Selangor'
 range: 'June 2025 - Present'
 url: 'https://www.ansell.com/'
