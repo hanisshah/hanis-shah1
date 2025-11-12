@@ -1,6 +1,6 @@
 ---
 date: '2017-04-01'
-title: 'Bachelor of Applied Science in Mathematical Modelling'
+title: 'Bachelor of Applied Science'
 company: 'Bachelor's Degree'
 location: 'Universiti Sains Malaysia'
 range: 'September 2017- September 2022'
