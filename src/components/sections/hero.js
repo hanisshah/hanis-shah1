@@ -70,8 +70,9 @@ const Hero = () => {
         
       </p>
     </>
+  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
