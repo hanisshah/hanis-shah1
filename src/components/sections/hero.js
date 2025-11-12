@@ -59,20 +59,22 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Hanis Ilya.</h2>;
-  const three = <h3 className="big-heading">I make data sense.</h3>;
-  const four = (
-    <>
-      <p>
-       I'm a Malaysia-based Data & Operations Analyst passionate about turning data into actionable insights. 
-       Experienced in Power BI, SQL, and Python, I enjoy visualizing complex data in simple, engaging ways.
-        
-      </p>
-    </>
-  );
+const one = <h1>Hi, my name is</h1>;
+const two = <h2 className="big-heading">Hanis Ilya.</h2>;
+const three = <h3 className="big-heading">I make data sense.</h3>;
+const four = (
+  <>
+    <p>
+      I'm a Malaysia-based Data & Operations Analyst passionate about turning data into actionable insights. 
+      Experienced in Power BI, SQL, and Python, I enjoy visualizing complex data in simple, engaging ways.
+    </p>
+  </>
+);
 
-  const items = [one, two, three, four];
+// Optional: remove if you don’t have a fifth item
+// const five = <a className="email-link" href="YOUR-LINK-HERE" target="_blank" rel="noreferrer">Check out my projects!</a>;
+
+const items = [one, two, three, four /*, five if defined */];
 
   return (
     <StyledHeroSection>
