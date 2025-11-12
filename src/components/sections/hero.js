@@ -65,20 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-       Hanis is a Malaysia-based Data & Operations Analyst passionate about turning data into actionable insights. 
-       Experienced in Power BI, SQL, and Python, she enjoys visualizing complex data in simple, engaging ways.
+       I'm a Malaysia-based Data & Operations Analyst passionate about turning data into actionable insights. 
+       Experienced in Power BI, SQL, and Python, I enjoy visualizing complex data in simple, engaging ways.
         
       </p>
     </>
-  );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
   );
 
   const items = [one, two, three, four, five];
