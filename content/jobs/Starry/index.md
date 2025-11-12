@@ -1,12 +1,15 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2025-05-15'
+title: 'Certifications'
+company: 'Professional Certifications'
+location: ''
+range: '2024 - Present'
+url: 'https://hanis-ilya.vercel.app/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Google Data Analytics Professional Certificate (Coursera)
+- Khazanah Youth Development Programme: Power BI Essentials (Excelerate Asia)
+- DataCamp Associate Data Analyst in SQL
+- DataCamp Associate Data Analyst in Python
+- Microsoft Excel for Data Analysis (Coursera)
+
