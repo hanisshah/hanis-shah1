@@ -66,9 +66,8 @@ const Hero = () => {
     <>
       <p>
        Hanis is a Malaysia-based Data & Operations Analyst passionate about turning data into actionable insights. 
-       Experienced in Power BI, SQL, and Python, she enjoys visualizing complex data in simple, engaging ways.{' '}
-        </a>
-        .
+       Experienced in Power BI, SQL, and Python, she enjoys visualizing complex data in simple, engaging ways.
+        
       </p>
     </>
   );
