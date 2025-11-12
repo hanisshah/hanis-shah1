@@ -61,14 +61,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Hanis Ilya.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I make data sense.</h3>;
   const four = (
     <>
       <p>
        Hanis is a Malaysia-based Data & Operations Analyst passionate about turning data into actionable insights. 
        Experienced in Power BI, SQL, and Python, she enjoys visualizing complex data in simple, engaging ways.{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
         </a>
         .
       </p>
