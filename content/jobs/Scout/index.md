@@ -4,7 +4,7 @@ title: 'Bachelor of Applied Science in Mathematical Modelling'
 company: 'Bachelor's Degree'
 location: 'Universiti Sains Malaysia'
 range: 'September 2017- September 2022'
-url: 'https://usm.my'
+url: 'https://usm. com.my'
 ---
 
 - Education: Major in Mathematical Modelling, Minor in Information Technology.
