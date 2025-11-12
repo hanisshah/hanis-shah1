@@ -1,8 +1,8 @@
 ---
 date: '2017-04-01'
 title: 'Bachelor of Applied Science'
-company: "Universiti Sains Malaysia"
-location: 'Penang, Malaysia'
+company: "Degree"
+location: 'Universiti Sains Malaysia, Malaysia'
 range: 'September 2017 - September 2022'
 url: 'https://www.usm.my/'
 ---
