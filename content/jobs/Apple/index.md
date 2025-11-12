@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2022-3-21'
+title: 'Research Assistant'
+company: 'Universiti Sains Malaysia'
+location: 'Penag, Malaysia'
+range: 'March 2022 - March 2023'
+url: 'https://www.'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Analyzed large datasets using statistical and forecasting models to identify performance trends and risk patterns.
+- Designed visualization-ready outputs and actionable reports, improving project planning accuracy.
+- Engaged stakeholders by presenting insights that guided strategic resource allocation.
+- Conducted data analysis for academic papers, gaining experience in pattern recognition and reporting.
