@@ -3,7 +3,7 @@ date: '2017-04-01'
 title: 'Bachelor of Applied Science in Mathematical Modelling'
 company: 'Bachelor's Degree'
 location: 'Universiti Sains Malaysia'
-range: '2017-22'
+range: 'September 2017- September 2022'
 url: 'https://usm.my'
 ---
 
